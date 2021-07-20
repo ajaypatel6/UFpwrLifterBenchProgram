@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UFpwrLifterBench</string>
+    <string name="set_1">Set 1</string>
+    <string name="set_9">Set 9</string>
+    <string name="set_7">Set 7</string>
+    <string name="set_5">Set 5</string>
+    <string name="set_6">Set 6</string>
+    <string name="set_10">Set 10</string>
+    <string name="set_4">Set 4</string>
+    <string name="set_2">Set 2</string>
+    <string name="set_8">Set 8</string>
+    <string name="set_3">Set 3</string>
+    <string name="monday_wednesday">Monday/Wednesday</string>
+    <string name="ufpwrlifter_bench">UFpwrLifter Bench</string>
+    <string name="friday">Friday</string>
+    <string name="max_bench">115</string>
+    <string name="calculateProgram">Calculate</string>
+    <string name="lbs">lbs</string>
+    <string name="enter_new_max_bench">Enter new max bench</string>
+    <string name="_96_x1">96% x1</string>
+    <string name="_33">33</string>
+    <string name="_33_x10">33% x10</string>
+    <string name="_56_x10">56% x10</string>
+    <string name="_79_x5">79% x5</string>
+    <string name="_86_x3">86% x3</string>
+    <string name="_91_x1">91% x1</string>
+    <string name="_56">56</string>
+    <string name="_79">79</string>
+    <string name="_91">91</string>
+    <string name="_86">86</string>
+    <string name="_96">96</string>
+</resources>
