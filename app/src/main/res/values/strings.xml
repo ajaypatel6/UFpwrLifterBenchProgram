@@ -13,7 +13,7 @@
     <string name="monday_wednesday">Monday/Wednesday</string>
     <string name="ufpwrlifter_bench">UFpwrLifter Bench</string>
     <string name="friday">Friday</string>
-    <string name="max_bench">115</string>
+    <string name="max_bench">100</string>
     <string name="calculateProgram">Calculate</string>
     <string name="lbs">lbs</string>
     <string name="enter_new_max_bench">Enter new max bench</string>
